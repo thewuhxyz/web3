@@ -1,0 +1,4 @@
+zig-out
+.zig-cache
+test-ledger
+.DS_Store
